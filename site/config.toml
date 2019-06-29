@@ -1,9 +1,34 @@
-baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "My new Victor-Hugo site"
+baseurl                  = "https://pueblocolab.org/"           # Your domain name. Must end with "/"
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Pueblo CoLab"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = "UA-12161534-19"                               # Tracking code, eg. "UA-111111111-1"
 
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "main"                           # What to call the home page link
+    footerText           = "Seamos la mejor version de nosotros mismos."
+
+# Metadata for Open Graph and Twitter
+    description          = "Pueblo CoLab"               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "This is Pueblo CoLab"
+
+
+[[params.mainMenu]]
+    link = "/sobre"
+    text = "sobre nosotros"
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = "posts"
+
+
+[imaging]
+    quality = 75

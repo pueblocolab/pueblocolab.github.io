@@ -1,9 +1,31 @@
-{{ define "main" }}
+<!DOCTYPE html>
+<html>
+    <head>
+        {{ partial "head.html" . }}
+        <title>{{ .Title }}</title>
+    </head>
+    <body>
+        <div class="section" id="splash">
 
-<h1>Hugo with Webpack, Sass, and PostCSS</h1>
+            {{ if .Site.Params.mainMenu }}
+                {{ range .Site.Params.mainMenu }}
+                    <div class="big-link">
+                        <a href="{{.link}}">
+                            {{.text}}
+                        </a>
+                    </div>
+                {{ end }}
 
-<h3>Hooray 🎉 - you've built this with <a href="https://github.com/netlify/victor-hugo">Victor-Hugo</a>!</h3>
-
-<a href="{{ "/tech" | relURL }}">Check out the tech</a>
-
-{{ end }}
+            {{ else }}
+                {{ range .Site.Sections }}
+                    <div class="big-link"> 
+                        <a href="{{.Permalink}}">
+                            {{.Title}}
+                        </a>
+                    </div>
+                {{ end }}
+            {{ end }}
+            
+        </div>
+    </body>
+</html>
