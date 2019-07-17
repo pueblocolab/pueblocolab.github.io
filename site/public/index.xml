@@ -25,6 +25,16 @@ Name the Movie</description>
     </item>
     
     <item>
+      <title>Consultoria</title>
+      <link>https://pueblocolab.org/consultoria/</link>
+      <pubDate>Sat, 16 Feb 2019 13:42:49 -0500</pubDate>
+      
+      <guid>https://pueblocolab.org/consultoria/</guid>
+      <description>Pueblo CoLab tambien cuenta con consultores expertos que le ayudarán a definir una estrategia clara de Gestión y Analisis de Datos, utilizando metodología especializada y asesoría en los distintos procedimientos a desarrollar. Como:
+ Inspeccionar e identificar defectos y problemas en sus datos. Identificar areas de mejora segun sus procesos. Entregar informes asociados con el analysis de sus datos. Y mucho mas incluyendo sitios de web!  Contactenos aqui: hola@pueblocolab.org</description>
+    </item>
+    
+    <item>
       <title>Sobre el Pueblo CoLab</title>
       <link>https://pueblocolab.org/sobre/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
@@ -32,6 +42,15 @@ Name the Movie</description>
       <guid>https://pueblocolab.org/sobre/</guid>
       <description>Que somos? Una comunidad de colaboración sin fines de lucro para los innovadores cívicos de Costa Rica.
 ¿Que haremos? Compartir conocimientos, crear herramientas y resolver problemas juntos. Trabajaremos para mejorar las vidas de las personas en nuestro país.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pueblocolab.org/paginas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pueblocolab.org/paginas/</guid>
+      <description></description>
     </item>
     
   </channel>

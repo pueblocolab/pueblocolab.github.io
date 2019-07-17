@@ -26,6 +26,10 @@ pygmentsCodefences       = true
     text = "sobre nosotros"
 
 [[params.mainMenu]]
+    link = "/consultoria"
+    text = "servicios"
+
+[[params.mainMenu]]
     link = "/posts"
     text = "posts"
 
