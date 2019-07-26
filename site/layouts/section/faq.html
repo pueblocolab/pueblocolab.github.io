@@ -1,0 +1,45 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+
+{{ define "main" }}
+
+<div id="hero" class="wrap">
+  <h1>{{.Title }}</h1>
+    <p>{{.Params.description}}<br></p>
+</div>
+<div id="kube-faq">
+{{.Content}}
+
+
+<br>
+<br>
+<div class="form-subscribe">
+  <div id="form-subscribe-success" style="display: none;"></div>
+<div id="form-subscribe-box">
+      <h4>Sign Up For Our Newsletter</h4>
+      <p>Monthly updates on our projects, social good &amp; civic tech.</p>
+
+      <form action="https://formspree.io/consulting@pueblocolab.org" name="mc-embedded-subscribe-form" method="post" class="form"><input type="hidden" name="authorize-token" value="">
+          <div id="subscribe-email-validation-error"></div>
+          <div class="form-item">
+              <div class="append">
+                  <input type="text" name="name" placeholder="Name">
+                  <br>
+                  <input type="email" name="EMAIL" id="mce-EMAIL" placeholder="Email">
+                  <button class="button">Subscribe</button>
+              </div>
+          </div>
+  
+          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="" tabindex="-1" value=""></div>
+      </form>
+
+      <div class="form-subscribe-twitter"><div>or</div> <a href="https://twitter.com/pueblocolab">Follow us on Twitter</a></div>
+  </div>
+</div>
+
+</div>
+{{ end }} 
+{{ define "footer" }} 
+  {{ partial "footer" . }} 
+{{ end }}

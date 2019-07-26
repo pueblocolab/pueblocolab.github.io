@@ -1,38 +1,25 @@
-baseurl                  = "https://pueblocolab.org/"           # Your domain name. Must end with "/"
-languageCode             = "en-us"
-defaultContentLanguage   = "en"
-isMultilingual           = false
-title                    = "Pueblo CoLab"
-theme                    = "sam"
-pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
-pygmentsCodefences       = true
-# googleAnalytics        = "UA-12161534-19"                               # Tracking code, eg. "UA-111111111-1"
+baseURL = "https://pueblocolab.org/"  
+languageCode = "en-us"
+title = "Pueblo CoLab"
+theme = "kube"
+description = "Helping social innovators and small businesses around the world "
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "Pueblo CoLab" # add your company name
+  github = "pueblocolab" # add your github profile name
+  twitter = "pueblocolab" # add your twitter profile
+  email = "hola@pueblocolab.org"
 
-[params]
-    dateform             = "Mon Jan 02, 2006"
-    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    favicon              = "sam.ico"
-    homepage             = "main"                           # What to call the home page link
-    footerText           = "Seamos la mejor version de nosotros mismos."
-
-# Metadata for Open Graph and Twitter
-    description          = "Pueblo CoLab"               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "This is Pueblo CoLab"
-
-
-[[params.mainMenu]]
-    link = "/sobre"
-    text = "sobre nosotros"
-
-[[params.mainMenu]]
-    link = "/consultoria"
-    text = "servicios"
-
-[[params.mainMenu]]
-    link = "/posts"
-    text = "posts"
-
-
-[imaging]
-    quality = 75
+[[menu.main]]
+    name = "Services"
+    weight = -200
+    url = "/services/"
+[[menu.main]]
+    name = "Blog"
+    weight = -100
+    url = "/blog/"
+[[menu.main]]
+    name = "About"
+    weight = -300
+    url = "/faq/"

@@ -3,51 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pueblocolab.org/posts/primer-experimento/</loc>
-    <lastmod>2019-06-28T20:18:53-05:00</lastmod>
+    <loc>https://pueblocolab.org/blog/primer_experimento/</loc>
+    <lastmod>2019-06-28T16:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pueblocolab.org/blog/</loc>
+    <lastmod>2019-06-28T16:42:50+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pueblocolab.org/</loc>
-    <lastmod>2019-06-28T20:18:53-05:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-06-28T16:42:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pueblocolab.org/tags/</loc>
-    <lastmod>2019-06-28T20:18:53-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pueblocolab.org/tags/blog/</loc>
-    <lastmod>2019-06-28T20:18:53-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pueblocolab.org/consultoria/</loc>
+    <loc>https://pueblocolab.org/services/</loc>
     <lastmod>2019-02-16T13:42:49-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pueblocolab.org/sobre/</loc>
-    <lastmod>2018-02-13T13:42:49-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pueblocolab.org/posts/</loc>
-    <lastmod>2018-02-13T12:21:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pueblocolab.org/paginas/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pueblocolab.org/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pueblocolab.org/password-recovery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pueblocolab.org/account/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pueblocolab.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pueblocolab.org/faq/</loc>
   </url>
   
 </urlset>

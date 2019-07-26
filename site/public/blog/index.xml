@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Pueblo CoLab</title>
+    <link>https://pueblocolab.org/blog/</link>
+    <description>Recent content in Blogs on Pueblo CoLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jun 2019 16:42:50 +0100</lastBuildDate>
+    
+	<atom:link href="https://pueblocolab.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Here We Go</title>
+      <link>https://pueblocolab.org/blog/primer_experimento/</link>
+      <pubDate>Fri, 28 Jun 2019 16:42:50 +0100</pubDate>
+      
+      <guid>https://pueblocolab.org/blog/primer_experimento/</guid>
+      <description>¿Qué harías si pudieras editar la constitución de Costa Rica? #CostaRica
+&amp;mdash; Pueblo CoLab (@PuebloCoLab) June 28, 2019  English:
+What would you do if you could edit Costa Rica&amp;rsquo;s constitution?
+It&amp;rsquo;s easy. Just make a Pull Request in our GitHub account here and prepare your own changes. You don&amp;rsquo;t know where to start? Why not something fun like: Name the Movie
+Spanish:
+¿Qué harías si pudieras editar la constitución de Costa Rica?</description>
+    </item>
+    
+  </channel>
+</rss>
