@@ -6,51 +6,56 @@
     <description>Recent content on Pueblo CoLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2019 20:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2019 16:42:50 +0100</lastBuildDate>
     
 	<atom:link href="https://pueblocolab.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Primer Experimento</title>
-      <link>https://pueblocolab.org/posts/primer-experimento/</link>
-      <pubDate>Fri, 28 Jun 2019 20:18:53 -0500</pubDate>
+      <title>Here We Go</title>
+      <link>https://pueblocolab.org/blog/primer_experimento/</link>
+      <pubDate>Fri, 28 Jun 2019 16:42:50 +0100</pubDate>
       
-      <guid>https://pueblocolab.org/posts/primer-experimento/</guid>
+      <guid>https://pueblocolab.org/blog/primer_experimento/</guid>
       <description>¿Qué harías si pudieras editar la constitución de Costa Rica? #CostaRica
-&amp;mdash; Pueblo CoLab (@PuebloCoLab) June 28, 2019  Lo dice todo. ¿Qué harías si pudieras editar la constitución de Costa Rica? Es facil. Solo hagan un Pull Request en nuestra cuenta de GitHub aca y prepara tus propios cambios.
-No sabes por donde empezar?
-Porque no algo divertido como:
-Name the Movie</description>
+&amp;mdash; Pueblo CoLab (@PuebloCoLab) June 28, 2019  English:
+What would you do if you could edit Costa Rica&amp;rsquo;s constitution?
+It&amp;rsquo;s easy. Just make a Pull Request in our GitHub account here and prepare your own changes. You don&amp;rsquo;t know where to start? Why not something fun like: Name the Movie
+Spanish:
+¿Qué harías si pudieras editar la constitución de Costa Rica?</description>
     </item>
     
     <item>
-      <title>Consultoria</title>
-      <link>https://pueblocolab.org/consultoria/</link>
+      <title>Services</title>
+      <link>https://pueblocolab.org/services/</link>
       <pubDate>Sat, 16 Feb 2019 13:42:49 -0500</pubDate>
       
-      <guid>https://pueblocolab.org/consultoria/</guid>
-      <description>Pueblo CoLab tambien cuenta con consultores expertos que le ayudarán a definir una estrategia clara de Gestión y Analisis de Datos, utilizando metodología especializada y asesoría en los distintos procedimientos a desarrollar. Como:
- Inspeccionar e identificar defectos y problemas en sus datos. Identificar areas de mejora segun sus procesos. Entregar informes asociados con el analysis de sus datos. Y mucho mas incluyendo sitios de web!  Contactenos aqui: hola@pueblocolab.org</description>
+      <guid>https://pueblocolab.org/services/</guid>
+      <description>Pueblo CoLab has expert consultants that will help your organization get its work done quickly and easily.
+*Note: All services are under promotional pricing which is based on income/revenue. Contact Us for more information.
+Technology Systems Advising Do you spend a lot of time doing things manually? Is there a new tool that your team needs to use to make a larger impact? We will work closely with your team to investigate new systems, implement them as necessary and provide training as necessary.</description>
     </item>
     
     <item>
-      <title>Sobre el Pueblo CoLab</title>
-      <link>https://pueblocolab.org/sobre/</link>
-      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
-      
-      <guid>https://pueblocolab.org/sobre/</guid>
-      <description>Que somos? Una comunidad de colaboración sin fines de lucro para los innovadores cívicos de Costa Rica.
-¿Que haremos? Compartir conocimientos, crear herramientas y resolver problemas juntos. Trabajaremos para mejorar las vidas de las personas en nuestro país.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pueblocolab.org/paginas/</link>
+      <title>Password Recovery</title>
+      <link>https://pueblocolab.org/password-recovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pueblocolab.org/paginas/</guid>
-      <description></description>
+      <guid>https://pueblocolab.org/password-recovery/</guid>
+      <description>Your email    Send Back to Log In
+ </description>
+    </item>
+    
+    <item>
+      <title>Sign In</title>
+      <link>https://pueblocolab.org/account/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pueblocolab.org/account/</guid>
+      <description>Email   Password   Log in
+Forgot password?
+If you have any questions about authorization or you&#39;re our customer but haven&#39;t receive your login credentials, just send us a short email at support@company.com and we&#39;ll fix it right away.
+ </description>
     </item>
     
   </channel>

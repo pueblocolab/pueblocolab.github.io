@@ -1,19 +1,19 @@
-{{ define "section_content" }}
-<div class="section" id="content">
-    {{ .Content }}
-    <ul>
-        {{ range .Data.Pages }}
-        <li>
-            {{ if .Params.showDate }}
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
 
-            {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006")}} --
+{{ define "main" }}
 
-            {{ end }}
-            <a href="{{.Permalink}}">
-                {{.Title}}
-            </a>
-        </li>
-        {{ end }}
-    </ul>
+<div id="hero" class="wrap">
+  <h1>Voice of {{.Site.Params.author }} </h1>
+    <p>Our vision, news and ideas, and whatever feels important.<br> <a href="https://twitter.com/{{.Site.Params.twitter}}">Follow us on Twitter</a></p>
 </div>
+<ul id="posts">
+
+ {{ range .Paginator.Pages.ByWeight }} {{ partial "page-summary" . }} {{ end }}
+  <section>{{ partial "pagination" .}}</section>
+</ul>
+
+{{ end }} 
+{{ define "footer" }} 
+  {{ partial "footer" . }} 
 {{ end }}

@@ -1,31 +1,44 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        {{ partial "head.html" . }}
-        <title>{{ .Title }}</title>
-    </head>
-    <body>
-        <div class="section" id="splash">
+{{ define "title"}} {{ .Site.Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
 
-            {{ if .Site.Params.mainMenu }}
-                {{ range .Site.Params.mainMenu }}
-                    <div class="big-link">
-                        <a href="{{.link}}">
-                            {{.text}}
-                        </a>
-                    </div>
-                {{ end }}
-
-            {{ else }}
-                {{ range .Site.Sections }}
-                    <div class="big-link"> 
-                        <a href="{{.Permalink}}">
-                            {{.Title}}
-                        </a>
-                    </div>
-                {{ end }}
-            {{ end }}
-            
-        </div>
-    </body>
-</html>
+<div id="main">
+  <div id="hero">
+    <h1>{{.Title}}</h1>
+    <p>{{.Description}}</p>
+  </div>
+  <div id="action-buttons">
+    <a class="button primary big" href="/services" onclick="_gaq.push(['_trackEvent', 'kube', 'download']);">Hire Us</a> <a class="button outline big" href="https://github.com/pueblocolab" onclick="_gaq.push(['_trackEvent', 'kube', 'github']);">Collaborate</a>
+  </div>
+  <div class="message focus" data-component="message"> <span class="close small"></span>
+    Is your project, non-profit or startup less than 2 years old? Book a <a class="button inverted small " href="mailto:consulting@pueblocolab.org" >free 30 minute consulting call</a> today!
+  </div>
+  <div id="kube-features">
+    <div class="row gutters">
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Baseline" height="48" src="{{ "/img/kube/icon-typo.png" | relURL }}" width="48">
+        </figure>
+        <h3>Technology</h3>
+        <p>Technology system reviews, recommendations, & implementations</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Typography" height="48" src="{{ "/img/kube/icon-baseline.png" | relURL }}" width="48">
+        </figure>
+        <h3>Data</h3>
+        <p>Management, retrieval, cleaning & analysis</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Minimalism" height="48" src="{{ "/img/kube/icon-minimalism.png" | relURL }}" width="48">
+        </figure>
+        <h3>Web Design</h3>
+        <p>CMS based Wordpress or static websites</p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+{{ end }}
+{{ define "footer"}} {{ partial "footer" .}} {{end}}

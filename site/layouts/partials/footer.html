@@ -1,1 +1,20 @@
-{{ .Site.Params.footerText | markdownify }}
+  <footer id="footer">
+    <nav>
+      <ul>
+        <li><span>Pueblo CoLab</span></li>
+        <li>
+          <a href="/services/">Services</a>
+        </li>
+        <li>
+          <a href="/blog/">Blog</a>
+        </li>
+        <li>
+          <a href="https://www.github.com/pueblocolab">Collaborate on GitHub!</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/{{.Site.Params.twitter}}">Find us on Twitter!</a>
+        </li>
+      </ul>
+    </nav>
+    <p>&copy; Licence MIT.</p>
+  </footer>
