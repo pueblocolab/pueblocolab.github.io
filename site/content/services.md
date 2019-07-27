@@ -17,13 +17,13 @@ We will help you define a clear data management and analysis strategy using spec
 We can help you get a site up and running based on your budget and will work within your technological comfort level so that you too can manage your own site.
 
 
-| Feature | Promotional* | Starter | Basic | Pro |
-|-----------|--------------|----------|----------|----------|
-| Pages | 3 | 5 | 10 | 15 |
-| Domain | Included | Included | Included | Included |
-| Hosting | Included | Included | Included | Included |
-| Email | Included | Included | Included | Included |
-| Analytics | NA | NA | Yes | Yes |
-| Custom Feature | NA | NA | Yes | Yes |
-| Revisions | 2 | 3 | 4| 5 |
+| Feature | Starter | Basic | Pro |
+|-----------| ----------|----------|----------|
+| Pages | 5 | 10 | 15 |
+| Domain | Included | Included | Included |
+| Hosting | Included | Included | Included |
+| Email | Included | Included | Included |
+| Analytics | NA | Yes | Yes |
+| Custom Feature | NA | Yes | Yes |
+| Revisions | 3 | 4| 5 |
 
