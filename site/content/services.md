@@ -3,7 +3,7 @@ title: "Services"
 date: 2019-02-16T13:42:49-05:00
 ---
 
-Pueblo CoLab has expert consultants that will help your organization get its work done quickly and easily. 
+Pueblo CoLab has expert consultants that will help your organization get its work done quickly and easily.
 
 <mark>*Note: All services are under promotional pricing which is based on income/revenue. [Contact Us](mailto: consulting@pueblocolab.org) for more information.</mark>
 

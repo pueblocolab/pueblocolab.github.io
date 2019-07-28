@@ -9,7 +9,7 @@ Paginate = 4
   author = "Pueblo CoLab" # add your company name
   github = "pueblocolab" # add your github profile name
   twitter = "pueblocolab" # add your twitter profile
-  email = "hola@pueblocolab.org"
+  email = "hello@pueblocolab.org"
 
 [[menu.main]]
     name = "Services"
