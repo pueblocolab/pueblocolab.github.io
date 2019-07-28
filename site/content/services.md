@@ -5,7 +5,7 @@ date: 2019-02-16T13:42:49-05:00
 
 Pueblo CoLab has expert consultants that will help your organization get its work done quickly and easily.
 
-<mark>*Note: All services are under promotional pricing which is based on income/revenue. [Contact Us](mailto: consulting@pueblocolab.org) for more information.</mark>
+<mark>*Note: All services are under promotional pricing which is based on income/revenue. [Contact Us](mailto: hello@pueblocolab.org) for more information.</mark>
 
 ### Technology Systems Advising
 Do you spend a lot of time doing things manually? Is there a new tool that your team needs to use to make a larger impact? We will work closely with your team to investigate new systems, implement them as necessary and provide training as necessary. 
