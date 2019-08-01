@@ -4,6 +4,7 @@ title = "Pueblo CoLab"
 theme = "kube"
 description = "Helping social innovators and small businesses around the world "
 Paginate = 4
+googleAnalytics = "'UA-144973086-1"
 [Params]
   RSSLink = "/index.xml"
   author = "Pueblo CoLab" # add your company name
