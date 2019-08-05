@@ -13,7 +13,7 @@ We are a collaborative aiming to help social innovators and small businesses aro
 
 
 ## What else will we do?
-Share [knowledge](https://www.github.com/pueblocolab), create tools and hopefully solve difficult problems together. Let us know if you want to collaborate!
+Share knowledge, create tools and hopefully solve difficult problems together. Fill out the form below to join our Slack community. 
 
 
 

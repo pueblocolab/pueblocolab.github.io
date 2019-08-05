@@ -42,28 +42,25 @@
 
 <div class="form-subscribe">
   <div id="form-subscribe-success" style="display: none;"></div>
-<div id="form-subscribe-box">
-      <h4>Sign Up For Our Newsletter</h4>
-      <p>Monthly updates on our projects, social good &amp; civic tech.</p>
-
-      <form action="https://formspree.io/hello@pueblocolab.org" name="mc-embedded-subscribe-form" method="post" class="form" ><input type="hidden" name="authorize-token" value="">
-          <div id="subscribe-email-validation-error"></div>
-          <div class="form-item">
-              
-                  <input type="text" name="name" placeholder="Name">
-                  <br>
-                  <input type="email" name="EMAIL" id="mce-EMAIL" placeholder="Email">
-                  <br>
-                  <button class="button">Subscribe</button>
-              
-          </div>
-  
-          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="" tabindex="-1" value=""></div>
-      </form>
-
-      <div class="form-subscribe-twitter"><div>or</div> <a href="https://twitter.com/pueblocolab">Follow us on Twitter</a></div>
-  </div>
+<div id="form-subscribe-box"></div>
+<h4>Contact Us</h4>
+<br>
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
+</div>
+</div>
 </div>
 
 </div>
