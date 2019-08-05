@@ -2,7 +2,7 @@
 date = "2019-06-28T16:42:50+01:00"
 draft = false
 weight = 180
-description = "Smoothly and reliably collapse elements for extra convenience"
+description = "Check out our first experiment!"
 title = "Here We Go"
 
 +++
