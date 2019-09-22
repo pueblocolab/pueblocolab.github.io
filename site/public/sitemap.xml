@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pueblocolab.org/docs/quick-start/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pueblocolab.org/docs/custom-plugins/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pueblocolab.org/docs/typography/</loc>
+  </url>
+  
+  <url>
     <loc>https://pueblocolab.org/blog/primer_experimento/</loc>
     <lastmod>2019-06-28T16:42:50+01:00</lastmod>
   </url>
@@ -10,7 +22,6 @@
   <url>
     <loc>https://pueblocolab.org/blog/</loc>
     <lastmod>2019-06-28T16:42:50+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -24,8 +35,15 @@
   </url>
   
   <url>
+    <loc>https://pueblocolab.org/faq/</loc>
+  </url>
+  
+  <url>
     <loc>https://pueblocolab.org/categories/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pueblocolab.org/docs/</loc>
   </url>
   
   <url>
@@ -38,11 +56,6 @@
   
   <url>
     <loc>https://pueblocolab.org/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pueblocolab.org/faq/</loc>
   </url>
   
 </urlset>
