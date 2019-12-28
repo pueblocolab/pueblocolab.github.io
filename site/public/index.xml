@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pueblo CoLab</title>
@@ -12,37 +12,6 @@
     
     
     <item>
-      <title>Getting Started</title>
-      <link>https://pueblocolab.org/docs/quick-start/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pueblocolab.org/docs/quick-start/</guid>
-      <description>Basic Template With Kube, you can set up your web framework and be on your way in under a minute. Just add this code to your web page for the basic template to take effect immediately.
-&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Basic Template&amp;lt;/title&amp;gt; &amp;lt;meta charset=&#34;utf-8&#34;&amp;gt; &amp;lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&amp;gt; &amp;lt;!-- Kube CSS --&amp;gt; &amp;lt;link rel=&#34;stylesheet&#34; href=&#34;assets/css/kube.css&#34;&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;h1&amp;gt;Hello, world!&amp;lt;/h1&amp;gt; &amp;lt;!-- Kube JS + jQuery are used for some functionality, but are not required for the basic setup --&amp;gt; &amp;lt;script src=&#34;</description>
-    </item>
-    
-    <item>
-      <title>People</title>
-      <link>https://pueblocolab.org/docs/custom-plugins/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pueblocolab.org/docs/custom-plugins/</guid>
-      <description>Plugin Template Here&amp;rsquo;s what a generic plugin looks like. This template gives an overall idea of what you can do with plugins in Kube. Feel free to use this one as a boilerplate for your custom plugins.
-(function(Kube) { Kube.Myplugin = function(element, options) { this.namespace = &amp;lsquo;myplugin&amp;rsquo;;
- &amp;lt;span class=&amp;quot;hljs-comment&amp;quot;&amp;gt;// default settings&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;hljs-keyword&amp;quot;&amp;gt;this&amp;lt;/span&amp;gt;.defaults = { mysetting: &amp;lt;span class=&amp;quot;hljs-literal&amp;quot;&amp;gt;true&amp;lt;/span&amp;gt; }; &amp;lt;span class=&amp;quot;hljs-comment&amp;quot;&amp;gt;// Parent Constructor&amp;lt;/span&amp;gt; Kube.apply(&amp;lt;span class=&amp;quot;hljs-keyword&amp;quot;&amp;gt;this&amp;lt;/span&amp;gt;, &amp;lt;span class=&amp;quot;hljs-built_in&amp;quot;&amp;gt;arguments&amp;lt;/span&amp;gt;); &amp;lt;span class=&amp;quot;hljs-comment&amp;quot;&amp;gt;// Initialization&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;hljs-keyword&amp;quot;&amp;gt;this&amp;lt;/span&amp;gt;.</description>
-    </item>
-    
-    <item>
-      <title>Learning</title>
-      <link>https://pueblocolab.org/docs/typography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pueblocolab.org/docs/typography/</guid>
-      <description>Get Started Typography of Kube based on the 4px horizontal grid, it means that for the headers, paragraphs, quotes and any other texts chosen are a combination of line-height, that fit into the 4px grid and help set the horizontal rhythm of design by default.
-  4px grid for typography - the magic of the horizontal rhythm   With this feature, you can quickly and easily make a solid and harmonious-looking website and UI design.</description>
-    </item>
-    
-    <item>
       <title>Here We Go</title>
       <link>https://pueblocolab.org/blog/primer_experimento/</link>
       <pubDate>Fri, 28 Jun 2019 16:42:50 +0100</pubDate>
@@ -54,17 +23,6 @@ What would you do if you could edit Costa Rica&amp;rsquo;s constitution?
 It&amp;rsquo;s easy. Just make a Pull Request in our GitHub account here and prepare your own changes. You don&amp;rsquo;t know where to start? Why not something fun like: Name the Movie
 Spanish:
 ¿Qué harías si pudieras editar la constitución de Costa Rica?</description>
-    </item>
-    
-    <item>
-      <title>Services</title>
-      <link>https://pueblocolab.org/services/</link>
-      <pubDate>Sat, 16 Feb 2019 13:42:49 -0500</pubDate>
-      
-      <guid>https://pueblocolab.org/services/</guid>
-      <description>Pueblo CoLab has expert consultants that will help your organization get its work done quickly and easily.
-*Note: All services are under promotional pricing which is based on income/revenue. Contact Us for more information.
-Technology Systems Advising Do you spend a lot of time doing things manually? Is there a new tool that your team needs to use to make a larger impact? We will work closely with your team to investigate new systems, implement them as necessary and provide training as necessary.</description>
     </item>
     
     <item>
