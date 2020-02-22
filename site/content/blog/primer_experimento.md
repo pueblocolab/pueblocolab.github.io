@@ -7,11 +7,10 @@ title = "Here We Go"
 
 +++
 
-{{< tweet 1144590101609099264 >}}
 
 **_English:_**
 
-What would you do if you could edit Costa Rica's constitution?
+What would you do if you could edit your country's constitution?
 
 It's easy. Just make a Pull Request in our GitHub account [here] (http://bit.ly/cr_consti) and prepare your own changes.
 You don't know where to start? Why not something fun like:
