@@ -6,11 +6,7 @@
     <description>Recent content in Blogs on Pueblo CoLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2019 16:42:50 +0100</lastBuildDate>
-    
-	<atom:link href="https://pueblocolab.org/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 28 Jun 2019 16:42:50 +0100</lastBuildDate><atom:link href="https://pueblocolab.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Here We Go</title>
       <link>https://pueblocolab.org/blog/primer_experimento/</link>
@@ -19,8 +15,8 @@
       <guid>https://pueblocolab.org/blog/primer_experimento/</guid>
       <description>English:
 What would you do if you could edit your country&amp;rsquo;s constitution?
-It&amp;rsquo;s easy. Just make a Pull Request in our GitHub account here and prepare your own changes. You don&amp;rsquo;t know where to start? Why not something fun like: Name the Movie
-Spanish:
+It&amp;rsquo;s easy. Just make a Pull Request in our GitHub account [here] (https://github.com/pueblocolab/mi_constitucion/) and prepare your own changes. You don&amp;rsquo;t know where to start? Why not something fun like: [Name the Movie] (https://github.com/pueblocolab/mi_constitucion/pull/2/files)
+ Spanish:
 ¿Qué harías si pudieras editar la constitución de Costa Rica?
 Es facil. Solo hagan un Pull Request en nuestra cuenta de GitHub aca y prepara tus propios cambios.</description>
     </item>
