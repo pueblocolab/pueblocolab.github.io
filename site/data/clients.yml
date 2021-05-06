@@ -1,0 +1,4 @@
+enable        : true
+title         : "Our Toolbox"
+client_logos  : 
+  ["images/tech/python.png", "images/tech/r.png", "images/tech/django.png", "images/tech/flask.png", "images/tech/javascript.png", "images/tech/gce.png", "images/tech/postgres.png", "images/tech/github.png", "images/tech/gitlab.png", "images/tech/tableau.png"]

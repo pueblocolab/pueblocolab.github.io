@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Pueblo CoLab</title>
-    <link>https://pueblocolab.org/blog/</link>
-    <description>Recent content in Blogs on Pueblo CoLab</description>
+    <title>Blog on PcL | Pueblo CoLab</title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in Blog on PcL | Pueblo CoLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2019 16:42:50 +0100</lastBuildDate><atom:link href="https://pueblocolab.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Here We Go</title>
-      <link>https://pueblocolab.org/blog/primer_experimento/</link>
-      <pubDate>Fri, 28 Jun 2019 16:42:50 +0100</pubDate>
+      <title>Constitutions</title>
+      <link>http://example.org/blog/constitutions/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
-      <guid>https://pueblocolab.org/blog/primer_experimento/</guid>
+      <guid>http://example.org/blog/constitutions/</guid>
       <description>English:
 What would you do if you could edit your country&amp;rsquo;s constitution?
-It&amp;rsquo;s easy. Just make a Pull Request in our GitHub account [here] (https://github.com/pueblocolab/mi_constitucion/) and prepare your own changes. You don&amp;rsquo;t know where to start? Why not something fun like: [Name the Movie] (https://github.com/pueblocolab/mi_constitucion/pull/2/files)
- Spanish:
-¿Qué harías si pudieras editar la constitución de Costa Rica?
-Es facil. Solo hagan un Pull Request en nuestra cuenta de GitHub aca y prepara tus propios cambios.</description>
+It&amp;rsquo;s easy. Just make a Pull Request in our GitHub account here and prepare your own changes.</description>
     </item>
     
   </channel>

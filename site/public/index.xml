@@ -1,42 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pueblo CoLab</title>
-    <link>https://pueblocolab.org/</link>
-    <description>Recent content on Pueblo CoLab</description>
+    <title>PcL | Pueblo CoLab</title>
+    <link>http://example.org/</link>
+    <description>Recent content on PcL | Pueblo CoLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2019 16:42:50 +0100</lastBuildDate><atom:link href="https://pueblocolab.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Dec 2019 13:45:06 +0600</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Here We Go</title>
-      <link>https://pueblocolab.org/blog/primer_experimento/</link>
-      <pubDate>Fri, 28 Jun 2019 16:42:50 +0100</pubDate>
+      <title>Constitutions</title>
+      <link>http://example.org/blog/constitutions/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
-      <guid>https://pueblocolab.org/blog/primer_experimento/</guid>
+      <guid>http://example.org/blog/constitutions/</guid>
       <description>English:
 What would you do if you could edit your country&amp;rsquo;s constitution?
-It&amp;rsquo;s easy. Just make a Pull Request in our GitHub account [here] (https://github.com/pueblocolab/mi_constitucion/) and prepare your own changes. You don&amp;rsquo;t know where to start? Why not something fun like: [Name the Movie] (https://github.com/pueblocolab/mi_constitucion/pull/2/files)
- Spanish:
-¿Qué harías si pudieras editar la constitución de Costa Rica?
-Es facil. Solo hagan un Pull Request en nuestra cuenta de GitHub aca y prepara tus propios cambios.</description>
+It&amp;rsquo;s easy. Just make a Pull Request in our GitHub account here and prepare your own changes.</description>
     </item>
     
     <item>
-      <title>Password Recovery</title>
-      <link>https://pueblocolab.org/password-recovery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Project 1</title>
+      <link>http://example.org/portfolio/project_one/</link>
+      <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
       
-      <guid>https://pueblocolab.org/password-recovery/</guid>
-      <description>&amp;lt;div class=&amp;quot;form-item&amp;quot;&amp;gt;&amp;lt;label&amp;gt;Your email &amp;lt;span class=&amp;quot;error&amp;quot; id=&amp;quot;user-email-validation-error&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/label&amp;gt;&amp;lt;input type=&amp;quot;email&amp;quot; name=&amp;quot;user-email&amp;quot; autofocus=&amp;quot;true&amp;quot; autocomplete=&amp;quot;off&amp;quot; style=&amp;quot;background-image: url(&amp;amp;quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAAAXNSR0IArs4c6QAAAPhJREFUOBHlU70KgzAQPlMhEvoQTg6OPoOjT+JWOnRqkUKHgqWP4OQbOPokTk6OTkVULNSLVc62oJmbIdzd95NcuGjX2/3YVI/Ts+t0WLE2ut5xsQ0O+90F6UxFjAI8qNcEGONia08e6MNONYwCS7EQAizLmtGUDEzTBNd1fxsYhjEBnHPQNG3KKTYV34F8ec/zwHEciOMYyrIE3/ehKAqIoggo9inGXKmFXwbyBkmSQJqmUNe15IRhCG3byphitm1/eUzDM4qR0TTNjEixGdAnSi3keS5vSk2UDKqqgizLqB4YzvassiKhGtZ/jDMtLOnHz7TE+yf8BaDZXA509yeBAAAAAElFTkSuQmCC&amp;amp;quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%; cursor: auto;&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;p&amp;gt;&amp;lt;button class=&amp;quot;button primary width-100&amp;quot;&amp;gt;Send&amp;lt;/button&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;/account/&amp;quot; class=&amp;quot;small muted&amp;quot;&amp;gt;Back to Log In&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; </description>
-    </item>
-    
-    <item>
-      <title>Sign In</title>
-      <link>https://pueblocolab.org/account/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pueblocolab.org/account/</guid>
-      <description>&amp;lt;div class=&amp;quot;form-item&amp;quot;&amp;gt;&amp;lt;label&amp;gt;Email &amp;lt;span id=&amp;quot;user-email-validation-error&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/label&amp;gt;&amp;lt;input type=&amp;quot;email&amp;quot; name=&amp;quot;user-email&amp;quot; autofocus=&amp;quot;true&amp;quot; autocomplete=&amp;quot;off&amp;quot; style=&amp;quot;background-image: url(&amp;amp;quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAAAXNSR0IArs4c6QAAAPhJREFUOBHlU70KgzAQPlMhEvoQTg6OPoOjT+JWOnRqkUKHgqWP4OQbOPokTk6OTkVULNSLVc62oJmbIdzd95NcuGjX2/3YVI/Ts+t0WLE2ut5xsQ0O+90F6UxFjAI8qNcEGONia08e6MNONYwCS7EQAizLmtGUDEzTBNd1fxsYhjEBnHPQNG3KKTYV34F8ec/zwHEciOMYyrIE3/ehKAqIoggo9inGXKmFXwbyBkmSQJqmUNe15IRhCG3byphitm1/eUzDM4qR0TTNjEixGdAnSi3keS5vSk2UDKqqgizLqB4YzvassiKhGtZ/jDMtLOnHz7TE+yf8BaDZXA509yeBAAAAAElFTkSuQmCC&amp;amp;quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%; cursor: auto;&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div class=&amp;quot;form-item&amp;quot;&amp;gt;&amp;lt;label&amp;gt;Password &amp;lt;span id=&amp;quot;user-password-validation-error&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/label&amp;gt;&amp;lt;input type=&amp;quot;password&amp;quot; name=&amp;quot;user-password&amp;quot; autocomplete=&amp;quot;off&amp;quot; style=&amp;quot;background-image: url(&amp;amp;quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAAAXNSR0IArs4c6QAAAPhJREFUOBHlU70KgzAQPlMhEvoQTg6OPoOjT+JWOnRqkUKHgqWP4OQbOPokTk6OTkVULNSLVc62oJmbIdzd95NcuGjX2/3YVI/Ts+t0WLE2ut5xsQ0O+90F6UxFjAI8qNcEGONia08e6MNONYwCS7EQAizLmtGUDEzTBNd1fxsYhjEBnHPQNG3KKTYV34F8ec/zwHEciOMYyrIE3/ehKAqIoggo9inGXKmFXwbyBkmSQJqmUNe15IRhCG3byphitm1/eUzDM4qR0TTNjEixGdAnSi3keS5vSk2UDKqqgizLqB4YzvassiKhGtZ/jDMtLOnHz7TE+yf8BaDZXA509yeBAAAAAElFTkSuQmCC&amp;amp;quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%; cursor: auto;&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;p&amp;gt;&amp;lt;button class=&amp;quot;button primary width-100&amp;quot;&amp;gt;Log in&amp;lt;/button&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;/password-recovery/&amp;quot; class=&amp;quot;small muted&amp;quot;&amp;gt;Forgot password?&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p class=&amp;quot;small&amp;quot;&amp;gt;If you have any questions about authorization or you&#39;re our customer but haven&#39;t receive your login credentials, just send us a short email at &amp;lt;b&amp;gt;support@company.</description>
+      <guid>http://example.org/portfolio/project_one/</guid>
+      <description>Text</description>
     </item>
     
   </channel>
